@@ -148,28 +148,8 @@ export const SITE_CONTENT: SiteContent = {
 
   about: {
     description: `
-I’m a Full Stack & Front-End Developer with 7+ years of experience building scalable, user-centric applications. I work across Angular (v9–17), Node.js/Express, and Ruby on Rails, with strong skills in RxJS, modular architectures, REST integrations, and CI/CD.
-
-I thrive in SCRUM teams and also ship fast in freelance settings—owning UX, performance, and clean code. Comfortable across MySQL/PostgreSQL/Firebase, and deployments on GCP, Cloudflare, Vercel, and Hostinger.
-
-**Education**
-- Master’s in Digital Marketing & E-commerce Management — University of Barcelona (Oct 2024 – Sept 2025)
-- Full Stack Developer Bootcamp — Upgrade Hub (2019)
-- BSc in Computer Engineering — University of Alcalá (2013 – 2019)
-
-**Languages**
-- Spanish: Native
-- English: C1 (Professional Working Proficiency)
-
-**Technical Skills**
-- **Frontend:** Angular (v9–17), TypeScript, JS (ES6+), HTML5, CSS3/SCSS/SASS, Bootstrap, Angular Material, RxJS, Responsive Design
-- **Backend/APIs:** Node.js, PHP, Express.js, Ruby on Rails, REST APIs
-- **Databases:** MySQL, PostgreSQL, Firebase, MongoDB
-- **DevOps/Cloud:** GCP, Hostinger, Cloudflare, Vercel, Jenkins, GitHub Actions, Nginx, Docker (basic)
-- **Version Control:** Git (GitHub, Bitbucket)
-- **Testing:** Jasmine, Karma, Cypress (basic)
-- **Methods/Tools:** Agile/SCRUM, Kanban, CI/CD, JIRA, Confluence, Notion, Figma, Postman, Chrome DevTools
+      Hi, I’m Sebastián Jiménez, a passionate Full Stack Developer and digital consultant dedicated to creating modern, scalable web applications. With experience across front-end and back-end technologies — including Angular, PHP, Node.js, and Ruby on Rails — I specialize in building efficient, user-centered solutions that blend solid engineering with clean design. Over the past years, I’ve worked on diverse projects ranging from data-driven dashboards and interactive maps to digital platforms that help businesses and users connect globally. My focus is always on crafting reliable, high-performance systems that deliver real impact.
     `,
-    image: "/alejandro-big.jpg", // update path if needed
+    image: "/sebas-big.jpg", // update path if needed
   },
 };
