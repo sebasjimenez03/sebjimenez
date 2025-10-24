@@ -45,11 +45,11 @@ export const SITE_CONTENT: SiteContent = {
       endDate: "Today",
       summary: [
         "Delivered full-cycle web projects: custom dashboards, data export tools (CSV/PDF), and responsive corporate sites.",
-        "IAR-Med: built CSV & PDF reporting for a wildlife rescue platform (Ruby on Rails, PostgreSQL, Prawn), with background jobs and optimized SQL for large datasets.",
+        "IAR-Med: built CSV & PDF reporting for a wildlife rescue platform, with background jobs and SQL fors datasets.",
         "IAR Incident Report Map: multilingual UI (ES/EN), Google Maps API, OAuth2, and REST microservices.",
         "KML Generator (PHP): dynamic KML exports with geolocation/date/species filters for Google Earth/GIS.",
       ],
-      stack: [ "Angular 9", "Ruby on Rails", "PHP", "Node.js", "MySQL", "PostgreSQL", "Bootstrap", "REST APIs", "Google Maps API", "Git/GitHub CI/CD"
+      stack: [ "Angular 9","Angular Material", "Ruby on Rails", "PHP", "Node.js", "MySQL", "PostgreSQL", "Bootstrap", "REST APIs", "Google Maps API", "Git/GitHub CI/CD", "Prawn"
     ]
     },
     {
@@ -58,12 +58,12 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Oct 2023",
       endDate: "Aug 2024",
       summary: [
-        "Built a modular Angular webapp with PHP/MySQL backend and REST APIs for client document flows, notifications, and premium content.",
-        "Integrated Shopify API for payments, Firebase for sync; secured and cached via Cloudflare; CI/CD with GitHub Actions.",
-        "Built a modular Angular dashboard CRM with PHP/MySQL backend and REST APIs."
+        "Built a modular Angular webapp, backend and REST APIs for client document flows, notifications, and premium content.",
+        "Integrated Shopify API for payments",
+        "Built a modular Angular dashboard CRM"
       ],
       stack: [
-        "Angular 9", "PHP", "MySQL", "Shopify API", "Bootstrap", "Cloudflare","Workers","Hono", "Hostinger"
+        "Angular 9", "PHP", "MySQL", "Shopify API", "Bootstrap", "Cloudflare","Workers","Hono", "Hostinger", "Git/GitHub CI/CD","GitHub Actions"
       ]
     },
     {
@@ -72,11 +72,11 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Otc 2018",
       endDate: "Sept 2023",
       summary: [
-        "Developed the Global Outsourcing System (AngularJS, GCP), optimized components for production performance.",
+        "Developed the Global Outsourcing System, optimized components for production performance.",
         "Active in requirements, code reviews, and deployments within a SCRUM team using JIRA.",
       ],
       stack: [
-        "AngularJS", "Java","Bitbucket", "Google Cloud Platform", "Jenkins", "SonarQube", "JIRA", "Agile/SCRUM"
+        "AngularJS", "Java","Bitbucket", "Google Cloud Platform (GCP)", "Jenkins", "SonarQube", "JIRA", "Agile/SCRUM"
       ]
     },
     {
