@@ -34,7 +34,7 @@ export const SITE_CONTENT: SiteContent = {
     subtitle: "Barcelona",
     description:
       "I am passionate about developing scalable web applications that prioritize user experience and performance. With expertise in Angular, Node.js, and cloud platforms like GCP, I deliver solutions that meet both business and user needs. My approach emphasizes clean code, modular architecture, and responsive design to ensure maintainability and adaptability in a rapidly evolving tech landscape.",
-    image: "/barcelona.jpg",
+    image: "/barcelona-md.jpg",
   },
 
   experience: [
